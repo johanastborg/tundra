@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-cloud-storage
+google-cloud-firestore
+google-cloud-retail
+google-generativeai
+firebase-admin
+pydantic
+python-dotenv
