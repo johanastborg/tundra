@@ -7,3 +7,4 @@ google-generativeai
 firebase-admin
 pydantic
 python-dotenv
+git+https://github.com/Universal-Commerce-Protocol/python-sdk.git
