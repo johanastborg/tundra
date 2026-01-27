@@ -21,6 +21,15 @@ This is a next-generation ecommerce platform built on Google Cloud and Firebase,
 - **Cloud**: Google Cloud Platform (GCP)
 - **Database**: Firebase (Firestore), Cloud Storage
 - **AI/ML**: Google AI (Gemini/Vertex AI), Google Cloud Retail API
+- **Protocols**: Universal Commerce Protocol (UCP)
+
+## Universal Commerce Protocol (UCP)
+
+This platform supports the Universal Commerce Protocol (UCP) for agentic commerce. The following endpoints are available:
+
+- `POST /api/v1/ucp/checkout`: Create a new checkout session.
+- `POST /api/v1/ucp/payment`: Handle payment creation/update.
+- `POST /api/v1/ucp/fulfillment`: Handle fulfillment options.
 
 ## Getting Started
 
